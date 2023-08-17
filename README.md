@@ -1,7 +1,7 @@
 # WorldTravelReact
 Created with CodeSandbox
 
-Live version [here](https://6pkqp2-3000.csb.app/), sandbox [here](https://codesandbox.io/p/github/Mikymen/WorldTravelReact).
+Live version [here](https://world-travel-react.vercel.app/), sandbox [here](https://codesandbox.io/p/github/Mikymen/WorldTravelReact).
 
 Webb app made with React and Codesanbox.
 
